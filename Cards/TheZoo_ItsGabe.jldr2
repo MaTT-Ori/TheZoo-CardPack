@@ -1,0 +1,17 @@
+{
+  "name": "TheZoo_ItsGabe",
+  "modPrefix": "TheZoo",
+  "displayedName": "ItsGabe",
+  "description": "TBD",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 7,
+  "baseHealth": 3,
+  "bloodCost": 3,
+  "tribes": [ "Bird" ],
+  "abilities": [ "Reach", "TriStrike" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "emissionTexture": "TheZoo_ItsGabe_glow.png",
+  "texture": "TheZoo_ItsGabe.png"
+}

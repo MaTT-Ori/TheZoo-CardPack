@@ -1,0 +1,17 @@
+{
+  "name": "TheZoo_Teddy",
+  "modPrefix": "TheZoo",
+  "displayedName": "Teddy",
+  "description": "TBD",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "tribes": [ "Canine" ],
+  "abilities": [ "TriStrike", "RandomConsumable" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "emissionTexture": "TheZoo_Teddy_glow.png",
+  "texture": "TheZoo_Teddy.png"
+}
