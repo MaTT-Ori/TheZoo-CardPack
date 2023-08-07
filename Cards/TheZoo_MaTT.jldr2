@@ -1,0 +1,17 @@
+{
+  "name": "TheZoo_MaTT",
+  "modPrefix": "TheZoo",
+  "displayedName": "MaTT",
+  "description": "Watch out for the flaming tail on this one",
+  "metaCategories": [ "TraderOffer" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "abilities": [ "TailOnHit", "DebuffEnemy" ],
+	"tailName": "Flaming Tail",
+	"tailLostPortrait": "TheZoo_MaTT_tail.png",
+  "texture": "TheZoo_MaTT.png",
+  "emissionTexture": "TheZoo_MaTT_glow.png"
+}

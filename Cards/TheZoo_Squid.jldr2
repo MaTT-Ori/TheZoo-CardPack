@@ -1,0 +1,16 @@
+{
+  "name": "TheZoo_Squid",
+  "modPrefix": "TheZoo",
+  "displayedName": "Squid",
+  "description": "More dangerous than it looks.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bloodCost": 4,
+  "abilities": [ "TriStrike", "Submerge" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "TheZoo_Squid.png",
+  "emissionTexture": "TheZoo_Squid_glow.png"
+}

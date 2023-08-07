@@ -1,17 +1,16 @@
 {
-  "name": "TheZoo_OofBunny",
+  "name": "TheZoo_oofBunny",
   "modPrefix": "TheZoo",
-  "displayedName": "OofBunny",
-  "description": "TBD",
-  "metaCategories": [ "Rare" ],
+  "displayedName": "oofBunny",
+  "description": "Rabbit with antlers.. Interesting",
+  "metaCategories": [ "ChoiceNode" ],
   "cardComplexity": "Intermediate",
   "temple": "Nature",
   "baseAttack": 1,
   "baseHealth": 2,
   "bonesCost": 2,
   "tribes": [ "Hooved" ],
-  "abilities": [ "DrawRabbits", "Sharp" ],
-  "appearanceBehaviour": [ "RareCardBackground" ],
-  "emissionTexture": "TheZoo_OofBunny_glow.png",
-  "texture": "TheZoo_OofBunny.png"
+  "abilities": [ "Sharp", "DrawRabbits" ],
+  "texture": "TheZoo_oofBunny.png",
+  "emissionTexture": "TheZoo_oofBunny_glow.png"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "TheZoo_Poolcat",
+  "modPrefix": "TheZoo",
+  "displayedName": "Poolcat",
+  "description": "What an odd cat.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "abilities": [ "Sacrificial", "Submerge" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "TheZoo_Poolcat.png",
+  "emissionTexture": "TheZoo_Poolcat_glow.png"
+}

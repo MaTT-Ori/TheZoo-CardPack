@@ -1,0 +1,15 @@
+{
+  "name": "TheZoo_Emolga",
+  "modPrefix": "TheZoo",
+  "displayedName": "Emolga",
+  "description": "It's flying, but it's not. Best not to question it.",
+  "metaCategories": [ "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "abilities": [ "Flying", "Strafe" ],
+  "texture": "TheZoo_Emolga.png",
+  "emissionTexture": "TheZoo_Emolga_glow.png"
+}

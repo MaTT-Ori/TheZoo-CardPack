@@ -2,16 +2,16 @@
   "name": "TheZoo_ItsGabe",
   "modPrefix": "TheZoo",
   "displayedName": "ItsGabe",
-  "description": "TBD",
+  "description": "A strange , but interesting penguin",
   "metaCategories": [ "Rare" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
-  "baseAttack": 7,
-  "baseHealth": 3,
+  "baseAttack": 2,
+  "baseHealth": 2,
   "bloodCost": 3,
   "tribes": [ "Bird" ],
-  "abilities": [ "Reach", "TriStrike" ],
+  "abilities": [ "Flying", "GuardDog" ],
   "appearanceBehaviour": [ "RareCardBackground" ],
-  "emissionTexture": "TheZoo_ItsGabe_glow.png",
-  "texture": "TheZoo_ItsGabe.png"
+  "texture": "TheZoo_ItsGabe.png",
+  "emissionTexture": "TheZoo_ItsGabe_glow.png"
 }

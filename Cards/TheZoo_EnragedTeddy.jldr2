@@ -1,0 +1,17 @@
+{
+  "name": "TheZoo_EnragedTeddy",
+  "modPrefix": "TheZoo",
+  "displayedName": "Enraged Teddy",
+  "description": "TBD",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 4,
+  "bloodCost": 3,
+  "tribes": [ "Canine" ],
+  "abilities": [ "Transformer", "DoubleStrike" ],
+	"evolveIntoName": "TheZoo_Teddy",
+	"evolveTurns": 1,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "TheZoo_EnragedTeddy.png",
+  "emissionTexture": "TheZoo_EnragedTeddy_glow.png"
+}

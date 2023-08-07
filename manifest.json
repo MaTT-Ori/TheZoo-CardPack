@@ -1,11 +1,12 @@
 {
-  "name": "MaTT",
+  "name": "The_Zoo_Card_Pack",
   "description": "Just a simple Card Pack full of the funniest lads in The Zoo!",
-  "version_number": "0.1.0",
+  "version_number": "1.0.0",
   "dependencies": [
     "API_dev-API-2.15.0",
     "BepInEx-BepInExPack_Inscryption-5.4.1902",
     "BepInEx-MonoMod_Loader_Inscryption-1.0.0",
     "MADH95Mods-JSONCardLoader-2.4.5"
-  ]
+  ],
+  "website_url": "https://github.com/MaTT-Ori/TheZoo-CardPack"
 }
